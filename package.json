@@ -2,6 +2,7 @@
   "name": "code-virement-urssaf",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://a.lionmane.tech/code-virement-urssaf/",
   "dependencies": {
     "final-form": "^4.8.3",
     "react": "^16.4.1",
