@@ -2,13 +2,13 @@
   "name": "code-virement-urssaf",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://a.lionmane.tech/code-virement-urssaf/",
+  "homepage": "http://a.lionmane.tech/code-virement-urssaf/",
   "dependencies": {
-    "final-form": "^4.8.3",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-final-form": "^3.6.5",
-    "react-scripts": "1.1.4"
+    "final-form": "^4.19.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-final-form": "^6.4.0",
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
